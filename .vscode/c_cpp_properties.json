@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:\\Programming\\MSYS2\\mingw64\\include\\c++\\"
+            ],
+            "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceRoot}",
+                    "C:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++",
+                    "D:\\Programming\\MSYS2\\mingw64\\include"
+                ]
+            },
+            "compilerPath": "D:/Programming/MSYS2/mingw64/bin/g++.exe",
+            "cppStandard": "c++17",
+            "cStandard": "c11",
+            "compilerArgs": ["-g", "-Wall", "-o"]
+        }
+    ],
+    "version": 4
+}
